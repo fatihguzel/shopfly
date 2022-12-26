@@ -81,7 +81,7 @@ const cart = () => {
                               </div>
                             </div>
                             <div class="d-flex flex-row align-items-center">
-                              <div style={{ width: "50px" }}>
+                              <div style={{ width: "49px" }}>
                                 <h5 class="fw-normal mb-0"></h5>
                               </div>
                               <div style={{ width: "80px" }}>
